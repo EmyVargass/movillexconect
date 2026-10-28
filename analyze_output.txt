@@ -1,0 +1,330 @@
+Resolving dependencies...
+Downloading packages...
+  characters 1.4.0 (1.4.1 available)
+  flutter_lints 5.0.0 (6.0.0 available)
+  lints 5.1.1 (6.1.0 available)
+  matcher 0.12.17 (0.12.19 available)
+  material_color_utilities 0.11.1 (0.13.0 available)
+  meta 1.16.0 (1.18.1 available)
+  test_api 0.7.6 (0.7.10 available)
+Got dependencies!
+7 packages have newer versions incompatible with dependency constraints.
+Try `flutter pub outdated` for more information.
+Analyzing movil_lexconect...                                    
+
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:188:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:223:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:282:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:464:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:494:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:554:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:631:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:635:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_client_screen.dart:664:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_screen.dart:156:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_screen.dart:220:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_screen.dart:375:56 - deprecated_member_use
+  error - Undefined name 'AppSession' - lib\screens\activity_screen.dart:465:27 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_screen.dart:485:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\activity_screen.dart:489:33 - deprecated_member_use
+warning - The declaration '_navItem' isn't referenced - lib\screens\activity_screen.dart:540:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\chat_screen.dart:103:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\chat_screen.dart:240:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\chat_screen.dart:495:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\crear_propuesta_screen.dart:88:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\crear_propuesta_screen.dart:127:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\crear_propuesta_screen.dart:130:38 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\crear_propuesta_screen.dart:201:13 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\crear_propuesta_screen.dart:398:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\crear_propuesta_screen.dart:422:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:149:68 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:167:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:190:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:192:64 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:224:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:237:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:241:45 - deprecated_member_use
+warning - The declaration '_buildSearchBar' isn't referenced - lib\screens\home_client_screen.dart:257:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:284:41 - deprecated_member_use
+warning - The declaration '_buildQuickActions' isn't referenced - lib\screens\home_client_screen.dart:351:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:367:48 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:379:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:417:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:428:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:524:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:536:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:625:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:636:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:734:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:935:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:946:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:975:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:1022:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:1026:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_client_screen.dart:1056:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:97:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:224:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:235:38 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:288:37 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\home_lawyer_screen.dart:322:15 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:323:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:356:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:394:35 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:577:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:586:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:616:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:663:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:667:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\home_lawyer_screen.dart:696:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\lawyer_profile_screen.dart:246:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\lawyer_profile_screen.dart:248:61 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\lawyer_profile_screen.dart:351:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\lawyer_profile_screen.dart:386:54 - deprecated_member_use
+warning - Unused import: '../constants/app_routes.dart' - lib\screens\login_screen.dart:3:8 - unused_import
+warning - The declaration '_login' isn't referenced - lib\screens\login_screen.dart:29:16 - unused_element
+warning - The declaration '_forgotPassword' isn't referenced - lib\screens\login_screen.dart:101:8 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:194:58 - deprecated_member_use
+  error - The method '_label' isn't defined for the type '_LoginScreenState' - lib\screens\login_screen.dart:305:31 - undefined_method
+  error - The method '_deco' isn't defined for the type '_LoginScreenState' - lib\screens\login_screen.dart:313:45 - undefined_method
+   info - Statements in an if should be enclosed in a block - lib\screens\login_screen.dart:317:37 - curly_braces_in_flow_control_structures
+   info - Statements in an if should be enclosed in a block - lib\screens\login_screen.dart:319:37 - curly_braces_in_flow_control_structures
+  error - The method '_label' isn't defined for the type '_LoginScreenState' - lib\screens\login_screen.dart:326:31 - undefined_method
+  error - The method '_deco' isn't defined for the type '_LoginScreenState' - lib\screens\login_screen.dart:334:45 - undefined_method
+  error - Expected to find ';' - lib\screens\login_screen.dart:360:47 - expected_token
+  error - Expected to find ')' - lib\screens\login_screen.dart:361:3 - expected_token
+  error - Expected to find ']' - lib\screens\login_screen.dart:361:3 - expected_token
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:453:24 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:455:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:463:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:485:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\login_screen.dart:519:35 - deprecated_member_use
+   info - The private field _currentNavIndex could be 'final' - lib\screens\messages_screen.dart:14:7 - prefer_final_fields
+warning - The value of the field '_currentNavIndex' isn't used - lib\screens\messages_screen.dart:14:7 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\messages_screen.dart:120:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\messages_screen.dart:240:43 - deprecated_member_use
+  error - Undefined name 'AppSession' - lib\screens\messages_screen.dart:393:27 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\messages_screen.dart:413:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\messages_screen.dart:417:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\notifications_screen.dart:157:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\notifications_screen.dart:168:46 - deprecated_member_use
+   info - The private field _currentNavIndex could be 'final' - lib\screens\profile_screen.dart:15:7 - prefer_final_fields
+warning - The value of the field '_currentNavIndex' isn't used - lib\screens\profile_screen.dart:15:7 - unused_field
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:145:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:243:20 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\profile_screen.dart:327:15 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:328:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\profile_screen.dart:454:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_client_screen.dart:71:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_client_screen.dart:74:56 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_client_screen.dart:217:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_lawyer_screen.dart:85:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_lawyer_screen.dart:88:62 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\register_lawyer_screen.dart:179:25 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_lawyer_screen.dart:316:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:223:28 - deprecated_member_use
+   info - 'value' is deprecated and shouldn't be used. Use initialValue instead. This will set the initial value for the form field. This feature was deprecated after v3.33.0-1.0.pre - lib\screens\register_screen.dart:321:23 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:456:54 - deprecated_member_use
+warning - The declaration '_buildStep1' isn't referenced - lib\screens\register_screen.dart:504:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:522:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:558:53 - deprecated_member_use
+warning - The declaration '_buildStep2' isn't referenced - lib\screens\register_screen.dart:578:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:596:33 - deprecated_member_use
+warning - The declaration '_buildStep3' isn't referenced - lib\screens\register_screen.dart:658:10 - unused_element
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:676:33 - deprecated_member_use
+  error - Undefined name '_confirmPassCtrl' - lib\screens\register_screen.dart:699:29 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:745:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:747:48 - deprecated_member_use
+  error - Undefined name '_obscure' - lib\screens\register_screen.dart:751:36 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:755:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:756:54 - deprecated_member_use
+  error - Undefined name '_obscure' - lib\screens\register_screen.dart:760:21 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:761:41 - deprecated_member_use
+  error - Undefined name '_obscure' - lib\screens\register_screen.dart:764:51 - undefined_identifier
+  error - Undefined name '_obscure' - lib\screens\register_screen.dart:764:63 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:793:46 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:799:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:812:37 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:837:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:1069:43 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:1072:28 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:1085:30 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\register_screen.dart:1130:40 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:125:49 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:131:58 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:253:39 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:254:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:276:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:314:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:343:44 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\role_selection_screen.dart:345:48 - deprecated_member_use
+  error - The class '_SearchScreenState' doesn't have an unnamed constructor - lib\screens\search_screen.dart:9:40 - new_with_undefined_constructor_default
+   info - The private field _currentNavIndex could be 'final' - lib\screens\search_screen.dart:15:7 - prefer_final_fields
+  error - The name 'Color' isn't a class - lib\screens\search_screen.dart:98:30 - creation_with_non_type
+  error - The method '_buildHeroHeader' isn't defined for the type '_SearchScreenState' - lib\screens\search_screen.dart:101:11 - undefined_method
+  error - Methods can't be invoked in constant expressions - lib\screens\search_screen.dart:120:42 - const_eval_method_invocation
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:144:29 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:144:29 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:144:29 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:144:34 - expected_class_member
+   info - The variable name 'Color' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:144:36 - non_constant_identifier_names
+  error - Expected an identifier - lib\screens\search_screen.dart:144:42 - missing_identifier
+  error - A function body must be provided - lib\screens\search_screen.dart:144:53 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:144:53 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:144:55 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:144:55 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:144:55 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:144:59 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:144:61 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:144:63 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:144:64 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:145:23 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:146:21 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:146:23 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:146:27 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:147:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:147:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:147:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:147:23 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:147:25 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:147:29 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:148:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:148:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:148:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:148:26 - expected_class_member
+  error - Getters, setters and methods can't be declared to be 'const' - lib\screens\search_screen.dart:148:28 - const_method
+   info - The variable name 'Color' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:148:34 - non_constant_identifier_names
+  error - The name 'Color' is already defined - lib\screens\search_screen.dart:148:34 - duplicate_definition
+  error - Expected an identifier - lib\screens\search_screen.dart:148:40 - missing_identifier
+  error - A function body must be provided - lib\screens\search_screen.dart:148:51 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:148:51 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:149:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:149:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:149:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:149:31 - expected_class_member
+  error - Can't define the 'const' constructor because the field '_areas' is initialized with a non-constant value - lib\screens\search_screen.dart:149:33 - const_constructor_with_field_initialized_by_non_const
+  error - Can't define the 'const' constructor because the field '_lawyers' is initialized with a non-constant value - lib\screens\search_screen.dart:149:33 - const_constructor_with_field_initialized_by_non_const
+  error - Can't define the 'const' constructor because the field '_searchCtrl' is initialized with a non-constant value - lib\screens\search_screen.dart:149:33 - const_constructor_with_field_initialized_by_non_const
+  error - A constant constructor can't call a non-constant super constructor of '_SearchScreenState' - lib\screens\search_screen.dart:149:39 - const_constructor_with_non_const_super
+  error - The name of a constructor must match the name of the enclosing class - lib\screens\search_screen.dart:149:39 - invalid_constructor_name
+warning - A value for optional parameter 'vertical' isn't ever given - lib\screens\search_screen.dart:149:60 - unused_element_parameter
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:149:68 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:149:68 - obsolete_colon_for_default_value
+   info - Empty constructor bodies should be written using a ';' rather than '{}' - lib\screens\search_screen.dart:149:73 - empty_constructor_bodies
+  error - A function body must be provided - lib\screens\search_screen.dart:149:73 - missing_function_body
+  error - Const constructors can't have a body - lib\screens\search_screen.dart:149:73 - const_constructor_with_body
+  error - Expected a class member - lib\screens\search_screen.dart:149:73 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:150:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:150:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:150:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:150:23 - expected_class_member
+   info - The variable name 'OutlineInputBorder' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:150:25 - non_constant_identifier_names
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:151:31 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:151:31 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\search_screen.dart:151:33 - non_constant_default_value
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:152:29 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:152:29 - obsolete_colon_for_default_value
+  error - Methods can't be invoked in constant expressions - lib\screens\search_screen.dart:152:55 - const_eval_method_invocation
+  error - A function body must be provided - lib\screens\search_screen.dart:153:18 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:153:18 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:154:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:154:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:154:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:154:30 - expected_class_member
+   info - The variable name 'OutlineInputBorder' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:154:32 - non_constant_identifier_names
+  error - The name 'OutlineInputBorder' is already defined - lib\screens\search_screen.dart:154:32 - duplicate_definition
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:155:31 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:155:31 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\search_screen.dart:155:33 - non_constant_default_value
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:156:29 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:156:29 - obsolete_colon_for_default_value
+  error - Methods can't be invoked in constant expressions - lib\screens\search_screen.dart:156:55 - const_eval_method_invocation
+  error - A function body must be provided - lib\screens\search_screen.dart:157:18 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:157:18 - expected_class_member
+   info - An uninitialized field should have an explicit type annotation - lib\screens\search_screen.dart:158:17 - prefer_typing_uninitialized_variables
+  error - Expected to find ';' - lib\screens\search_screen.dart:158:17 - expected_token
+  error - Variables must be declared using the keywords 'const', 'final', 'var' or a type name - lib\screens\search_screen.dart:158:17 - missing_const_final_var_or_type
+  error - Expected a class member - lib\screens\search_screen.dart:158:30 - expected_class_member
+   info - The variable name 'OutlineInputBorder' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:158:32 - non_constant_identifier_names
+  error - The name 'OutlineInputBorder' is already defined - lib\screens\search_screen.dart:158:32 - duplicate_definition
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:159:31 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:159:31 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\search_screen.dart:159:33 - non_constant_default_value
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:160:29 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:160:29 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\search_screen.dart:162:18 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:162:18 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:163:15 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:163:16 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:164:13 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:164:14 - expected_class_member
+  error - Getters, setters and methods can't be declared to be 'const' - lib\screens\search_screen.dart:165:13 - const_method
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:165:19 - non_constant_identifier_names
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:165:34 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:165:34 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\search_screen.dart:165:39 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:165:39 - expected_class_member
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:168:13 - non_constant_identifier_names
+  error - The name 'SizedBox' is already defined - lib\screens\search_screen.dart:168:13 - duplicate_definition
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:169:21 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:169:21 - obsolete_colon_for_default_value
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:170:20 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:170:20 - obsolete_colon_for_default_value
+  error - The default value of an optional parameter must be constant - lib\screens\search_screen.dart:170:22 - non_constant_default_value
+  error - The name 'SizedBox' isn't a class - lib\screens\search_screen.dart:173:52 - creation_with_non_type
+  error - Color isn't a type - lib\screens\search_screen.dart:177:25 - not_a_type
+  error - The name 'Color' isn't a type, so it can't be used in an 'as' expression - lib\screens\search_screen.dart:179:52 - cast_to_non_type
+  error - The name 'Color' isn't a class - lib\screens\search_screen.dart:195:39 - creation_with_non_type
+  error - The name 'Color' isn't a class - lib\screens\search_screen.dart:207:43 - creation_with_non_type
+  error - The name 'SizedBox' isn't a class - lib\screens\search_screen.dart:209:35 - creation_with_non_type
+  error - The name 'Color' isn't a class - lib\screens\search_screen.dart:218:43 - creation_with_non_type
+  error - A function body must be provided - lib\screens\search_screen.dart:227:14 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:227:14 - expected_class_member
+  error - Getters, setters and methods can't be declared to be 'const' - lib\screens\search_screen.dart:228:13 - const_method
+   info - The variable name 'SizedBox' isn't a lowerCamelCase identifier - lib\screens\search_screen.dart:228:19 - non_constant_identifier_names
+  error - The name 'SizedBox' is already defined - lib\screens\search_screen.dart:228:19 - duplicate_definition
+  error - Named parameters must be enclosed in curly braces ('{' and '}') - lib\screens\search_screen.dart:228:34 - named_parameter_outside_group
+  error - Using a colon as the separator before a default value is no longer supported - lib\screens\search_screen.dart:228:34 - obsolete_colon_for_default_value
+  error - A function body must be provided - lib\screens\search_screen.dart:228:39 - missing_function_body
+  error - Expected a class member - lib\screens\search_screen.dart:228:39 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:229:11 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:229:12 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:230:9 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:230:10 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:231:7 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:231:8 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:232:5 - expected_class_member
+  error - Expected a class member - lib\screens\search_screen.dart:232:6 - expected_class_member
+  error - Undefined name 'context' - lib\screens\search_screen.dart:240:40 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:248:35 - deprecated_member_use
+  error - Undefined name 'context' - lib\screens\search_screen.dart:437:29 - undefined_identifier
+  error - Undefined name 'context' - lib\screens\search_screen.dart:459:49 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:464:58 - deprecated_member_use
+  error - The function 'setState' isn't defined - lib\screens\search_screen.dart:508:30 - undefined_function
+  error - Undefined name '_activeArea' - lib\screens\search_screen.dart:509:15 - undefined_identifier
+  error - Undefined name '_searchCtrl' - lib\screens\search_screen.dart:510:15 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:534:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:538:33 - deprecated_member_use
+  error - Undefined name '_currentNavIndex' - lib\screens\search_screen.dart:551:32 - undefined_identifier
+  error - Undefined name 'context' - lib\screens\search_screen.dart:556:41 - undefined_identifier
+  error - The function 'setState' isn't defined - lib\screens\search_screen.dart:558:21 - undefined_function
+  error - Undefined name '_currentNavIndex' - lib\screens\search_screen.dart:558:36 - undefined_identifier
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\search_screen.dart:566:45 - deprecated_member_use
+  error - Expected a method, getter, setter or operator declaration - lib\screens\search_screen.dart:603:1 - expected_executable
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\settings_screen.dart:263:32 - deprecated_member_use
+   info - 'activeColor' is deprecated and shouldn't be used. Use activeThumbColor or activeTrackColor instead. This feature was deprecated after v3.31.0-2.0.pre - lib\screens\settings_screen.dart:284:13 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\settings_screen.dart:308:34 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitud_detalle_screen.dart:100:31 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitud_detalle_screen.dart:519:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitud_detalle_screen.dart:543:29 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:106:42 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:218:45 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:223:47 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:288:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:341:52 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\solicitudes_screen.dart:467:33 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\welcome_screen.dart:39:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\welcome_screen.dart:40:51 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\welcome_screen.dart:55:50 - deprecated_member_use
+   info - 'withOpacity' is deprecated and shouldn't be used. Use .withValues() to avoid precision loss - lib\screens\welcome_screen.dart:122:56 - deprecated_member_use
+
+314 issues found. (ran in 4.6s)
